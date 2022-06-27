@@ -1,4 +1,4 @@
-#Todo React app
+# Todo React app
 
 This app is a result of following the tutorial on:
 
